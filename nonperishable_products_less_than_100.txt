@@ -1,0 +1,5 @@
+NonperishableProduct{fabricationDate=AbstractDate{year=2022, month=12, day=1}, name='Table', price=50.0, quantity=10}
+NonperishableProduct{fabricationDate=AbstractDate{year=2023, month=5, day=20}, name='Chair', price=25.0, quantity=15}
+NonperishableProduct{fabricationDate=AbstractDate{year=2024, month=3, day=10}, name='Lamp', price=18.0, quantity=12}
+NonperishableProduct{fabricationDate=AbstractDate{year=2025, month=7, day=1}, name='Notebook', price=3.0, quantity=50}
+NonperishableProduct{fabricationDate=AbstractDate{year=2026, month=1, day=1}, name='Pen', price=1.2, quantity=150}

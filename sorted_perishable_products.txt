@@ -1,0 +1,10 @@
+PerishableProduct{expiryDate=AbstractDate{year=2023, month=9, day=13}, name='Spinach', price=1.5, quantity=25}
+PerishableProduct{expiryDate=AbstractDate{year=2023, month=9, day=15}, name='Tomatoes', price=2.3, quantity=70}
+PerishableProduct{expiryDate=AbstractDate{year=2023, month=9, day=18}, name='Fish', price=8.0, quantity=20}
+PerishableProduct{expiryDate=AbstractDate{year=2023, month=9, day=20}, name='Bread', price=2.0, quantity=30}
+PerishableProduct{expiryDate=AbstractDate{year=2023, month=9, day=25}, name='Chicken', price=5.0, quantity=35}
+PerishableProduct{expiryDate=AbstractDate{year=2023, month=10, day=10}, name='Milk', price=1.8, quantity=50}
+PerishableProduct{expiryDate=AbstractDate{year=2023, month=10, day=25}, name='Eggs', price=3.0, quantity=120}
+PerishableProduct{expiryDate=AbstractDate{year=2023, month=11, day=5}, name='Cheese', price=4.5, quantity=40}
+PerishableProduct{expiryDate=AbstractDate{year=2024, month=12, day=15}, name='Banana', price=0.5, quantity=200}
+PerishableProduct{expiryDate=AbstractDate{year=2025, month=1, day=1}, name='Apple', price=1.2, quantity=100}
